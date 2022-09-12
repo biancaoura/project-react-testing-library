@@ -1,16 +1,28 @@
-# 🚧 README em construção 🚧
+# React Testing Library Project
 
-<!-- Olá, Tryber!
+## Goal
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+### Develop tests for a Pokémon application
 
-É essencial que você preencha esse documento por conta própria, ok?
+#### Test components:
+- App;
+- About;
+- FavoritePokemons;
+- NotFound;
+- Pokedex;
+- Pokemon;
+- PokemonDetails
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+##
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+- using TDD
+- files tested using stryker
 
--->
+#### First project using RTL
+
+
+##
+
+> Project developed with React / RTL / Jest
+
+> Application provided by Trybe
